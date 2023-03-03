@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+     background: #FFFFFF;    
+}
+.conteiner { 
+          
+          width: 562px;
+          height: 818px;
+          background: #FAFAFA;
+          border: 1px solid #DCDCDC;
+          margin-top:50px; 
+          padding-bottom: 98px;  
+         
+}
+.photo {
+    width: 159.24px;
+    height: 146.57px;
+    margin-top: 97px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+p {
+    width: 476px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
